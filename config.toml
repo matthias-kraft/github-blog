@@ -1,0 +1,32 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Matthias Kraft"
+  subtitle    = "Making mission-critical AI safe with Lakera. "
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  linkedinName = "matthias-kraft-5b1229a1"
+  githubName = "mkraft89"
+
+  author = "Matthias Kraft"
+  authorAvatar = "/image/cartoon_mk.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://www.linkedin.com/in/matthias-kraft-5b1229a1/"
+  authorDescription = "I’m the founder and CPO at [Lakera AI](lakera.ai), an engineer, and researcher who loves to solve technical, and business challenges and turn them into products."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
