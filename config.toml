@@ -1,4 +1,4 @@
-baseurl         = "https://mkraft89.github.io"
+baseurl         = "https://matthias-kraft.github.io"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
