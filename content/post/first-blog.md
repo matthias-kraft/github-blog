@@ -8,6 +8,7 @@ avatarPicture: image/cartoon_mk.png
 image: /image/niv-singer-banksy.jpg
 tags : [
 "safeai",
+"LakeraAI"
 ]
 categories : [
 "blog"
@@ -40,6 +41,7 @@ This is a call that I fully support! When AI algorithms are used to assess our t
 
 Of course, regulations are not a silver bullet that will immediately solve all AI-related issues. And the problem is much too complex to be solved by a single stakeholder. Regulators can set the process and expectations, but they cannot solve the underlying technical difficulties. Researchers have much work to do in investigating all the ways bias can creep into AI algorithms. Engineers carry the responsibility to build the necessary tools to not only detect bias, but to ensure [AI systems work as intended](https://david-haber.github.io/posts/ai-discipline/). Indeed, it will require the concerted effort by many, including society as a whole, to create truly trustworthy AI. I’m optimistic that we will rise to the challenge. And in the meantime, I recommend that you watch [CodedBias](https://www.codedbias.com/), in order to get a better understanding about the wider issues surrounding AI!
 
+*Thanks to [Mateo](https://www.linkedin.com/in/mateor/), [David](https://www.linkedin.com/in/haberdavid/) and Ina for reading and commenting on drafts of this article. Image credits to [Niv Singer](https://unsplash.com/@niv) and [unsplash](https://unsplash.com/). #safeai [#LakeraAI](https://lakera.ai/)*
 
 [^Screenshot]:Translation and screenshot created on 23.4.2021, the results of the translation may have changed in the meantime.
 [^FDA]: U.S. Food and Drug Administration.

@@ -21,7 +21,7 @@ paginate        = 6
   authorAvatar = "/image/cartoon_mk.png"
   authorLocation = "Bandung, ID"
   authorWebsite = "https://www.linkedin.com/in/matthias-kraft-5b1229a1/"
-  authorDescription = "I’m the founder and CPO at [Lakera AI](lakera.ai), an engineer, and researcher who loves to solve technical, and business challenges and turn them into products."
+  authorDescription = "I’m a founder and CPO at Lakera AI, an engineer, and researcher who loves to solve technical, and business challenges and turn them into products."
 
   pageNotFoundTitle = "404 - Page not found"
 
