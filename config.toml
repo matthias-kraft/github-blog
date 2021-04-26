@@ -14,6 +14,8 @@ paginate        = 6
   customCSS = []
   RSSLink = ""
 
+  logo = ""
+
   linkedinName = "matthias-kraft-5b1229a1"
   githubName = "matthias-kraft"
 
@@ -21,7 +23,7 @@ paginate        = 6
   authorAvatar = "/image/cartoon_mk.png"
   authorLocation = "Bandung, ID"
   authorWebsite = "https://www.linkedin.com/in/matthias-kraft-5b1229a1/"
-  authorDescription = "I’m a founder and CPO at Lakera AI, an engineer, and researcher who loves to solve technical, and business challenges and turn them into products."
+  authorDescription = "I’m a founder of Lakera AI where we are enabling mission-critical Artifical Intelligence."
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -30,3 +32,17 @@ paginate        = 6
 
 [permalinks]
   post = "/:slug/"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
