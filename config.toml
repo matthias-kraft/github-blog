@@ -8,7 +8,7 @@ paginate        = 6
 [params]
   title       = "Matthias Kraft"
   subtitle    = "Making mission-critical AI safe with Lakera. "
-  description = "Here is a description of your site."
+  description = "Personal blog on AI, software engineering and mission-critical systems."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
